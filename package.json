@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://annamelya2021.github.io/IceCreamTeam",
+  "homepage": "https://annamelya2021.github.io/team-proj-demo",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IceCreamTeam/"
+    "build": "parcel build src/*.html --public-url /team-proj-demo/"
   },
   "repository": {
     "type": "git",
